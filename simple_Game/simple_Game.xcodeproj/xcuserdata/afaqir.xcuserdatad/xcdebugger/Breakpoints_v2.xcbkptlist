@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "62D2C8E0-E329-4202-B59B-23E6783C0638"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D837303-19DB-474C-BFF5-B4EB64468B6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "simple_Game/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3D837303-19DB-474C-BFF5-B4EB64468B6F - f69d822eb42304bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_Game.ViewController.button1.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "simple_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/afaqir/Desktop/simple_Game/simple_Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "3D837303-19DB-474C-BFF5-B4EB64468B6F - 57ee6b4d1cdab8a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_Game.ViewController.button1.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "simple_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/afaqir/Desktop/simple_Game/simple_Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "3D837303-19DB-474C-BFF5-B4EB64468B6F - cd63416975afa3b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_Game.ViewController.button1.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "simple_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/afaqir/Desktop/simple_Game/simple_Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "3D837303-19DB-474C-BFF5-B4EB64468B6F - 68d3ece7c8c22a0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_Game.ViewController.button1.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "simple_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/afaqir/Desktop/simple_Game/simple_Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "3D837303-19DB-474C-BFF5-B4EB64468B6F - a292be926e55662f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_Game.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; simple_Game.ViewController"
+                  moduleName = "simple_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/afaqir/Desktop/simple_Game/simple_Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "3D837303-19DB-474C-BFF5-B4EB64468B6F - 7eb59e302739c90a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "simple_Game.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;simple_Game.ViewController&gt;"
+                  moduleName = "simple_Game"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/afaqir/Desktop/simple_Game/simple_Game/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
